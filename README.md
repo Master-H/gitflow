@@ -1,3 +1,3 @@
 # gitflow
 learn gitflow
-* tst
+* tstd
